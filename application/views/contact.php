@@ -14,7 +14,7 @@
 <body class="BODY">
 
     <div id="googleMap" style="width:100vw;height:50vw;"></div>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBg-zuh6httGUta1SsgPegPFH6Z-8q9TvI&callback=myMap"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=##############################"></script>
         
     <div class="Tablelo">
         <div><p>Wolloonggabba</p><br>
